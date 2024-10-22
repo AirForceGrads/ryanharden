@@ -3,8 +3,14 @@ header {
     justify-content: space-between;
     align-items: flex-end;
   }
-  
-  nav {
+
+header > nav {
+    float: right;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+nav {
     flex-grow: 1;
   }
   
