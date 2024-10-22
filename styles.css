@@ -8,6 +8,10 @@ header {
     flex-grow: 1;
   }
   
+a:any-link{
+    cursor: pointer;
+}
+
   nav ul {
     display: flex;
     justify-content: space-around;
