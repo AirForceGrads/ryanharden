@@ -1,0 +1,52 @@
+# Site settings
+title: Ryan Harden Personal Page
+description: Ryan Harden custom developed Jeykll styling
+url: https://airforcegrads.com/ryanharden/
+baseurl: "ryanharden/" # Set your site's subpath here
+
+# Author information
+author:
+  name: Ryan Joseph Albright Harden
+  social:
+    linkedin: https://www.linkedin.com/en/ryan-harden/
+    github: https://github.com/AirForceGrads
+
+# Build settings
+theme: my-custom-theme # Replace with your theme's name
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+# Site defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      excerpt_separator: <!--more-->
+
+# Pagination settings
+pagination:
+  enabled: true
+  per_page: 5
+  category: posts
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - _config.yml
+
+# Custom theme settings
+custom_theme_settings:
+  color_scheme: light
+  font: "Arial, sans-serif"
+  header_image: "/assets/images/header.jpg"
