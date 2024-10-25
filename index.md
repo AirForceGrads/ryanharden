@@ -48,5 +48,3 @@ layout: default
         </ol>
             
                         <hr>
-    </div>
-</div>
