@@ -48,7 +48,5 @@ layout: default
         </ol>
             
                         <hr>
-                        <p style="text-align: center; margin-bottom: 10px">
-                        <a href="mailto:rjah611@gmail.com" style="color: black"><small>Copyright 2024 Ryan Harden</small><a></p>
     </div>
 </div>
