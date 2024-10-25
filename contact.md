@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ryan Joseph Albright Harden Personal Page">
-    <meta name="keywords" content="Ryan Joseph Albright Harden, Air Force Grads, Air Force Academy">
-    <title>About Ryan Harden</title>
-    
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+---
+layout: default
+---
+
     <div class="wrapper">
         <header class="navbar container">
             <a id="author-name" class="alignable pull-left" href="/ryanharden">Ryan J. A. Harden</a>
@@ -67,7 +58,3 @@
                 
             </div>
     </div>
-<footer></footer>
-
-</body>
-</html>
