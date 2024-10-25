@@ -34,13 +34,12 @@ layout: default
 <hr>
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
+  <li>
+    <a href="{{ site.baseurl }}/blog/2024/10/27/new-site/">New Site</a>
+    <p>This is a brief excerpt or description of the post.</p>
+  </li>
 </ul>
+
 
 
 
