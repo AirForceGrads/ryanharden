@@ -2,7 +2,6 @@
 title: Ryan Harden Personal Page
 description: Ryan Harden custom developed Jeykll styling
 url: https://airforcegrads.com/ryanharden/
-baseurl: "ryanharden/" # Set your site's subpath here
 
 permalink: blog/:year/:month/:day/:title/
 
