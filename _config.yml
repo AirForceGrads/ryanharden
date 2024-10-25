@@ -12,7 +12,7 @@ author:
     github: https://github.com/AirForceGrads
 
 # Build settings
-theme: ryan-harden-theme # Replace with your theme's name
+theme: null # Replace with your theme's name
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
