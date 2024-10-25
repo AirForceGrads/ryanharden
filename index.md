@@ -27,8 +27,8 @@ layout: page
     <meta name="keywords" content="Ryan Joseph Albright Harden, Air Force Grads, Air Force Academy">
     <title>About Ryan Harden</title>
     
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="styles.css">
+    
+    
 </head>
 <body>
     <div class="wrapper">
