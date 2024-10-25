@@ -4,6 +4,8 @@ description: Ryan Harden custom developed Jeykll styling
 url: https://airforcegrads.com/ryanharden/
 baseurl: "ryanharden/" # Set your site's subpath here
 
+permalink: /blog/:year/:month/:day/:title/
+
 # Author information
 author:
   name: Ryan Joseph Albright Harden
