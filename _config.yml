@@ -3,7 +3,7 @@ title: Ryan Harden Personal Page
 description: Ryan Harden custom developed Jeykll styling
 url: https://airforcegrads.com/ryanharden/
 
-permalink: blog/:year/:month/:day/:title/
+permalink: :year/:month/:day/:title/
 
 # Author information
 author:
