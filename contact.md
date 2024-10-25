@@ -27,13 +27,3 @@ layout: default
 
 <p>United States of America</p>
 </blockquote>
-
-<hr>
-
-
-<h2 id="social">Social</h2>
-
-<ol>
-<li><a href="https://www.linkedin.com/in/ryan-harden/">LinkedIn</a></li>
-<li><a href="https://github.com/airforcegrads">Github</a></li>
-</ol>

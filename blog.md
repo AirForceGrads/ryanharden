@@ -46,13 +46,3 @@ layout: default
 <li><a href="https://loneconservative.com/2019/02/07/theres-no-room-for-governor-northams-intolerance/">There's No Room for Governor Northam's Intolerance</a></li>
 <li><a href="https://bestdelegate.com/the-u-s-air-force-academy-approach-to-model-united-nations/">The U.S. Air Force Academy Approach to Model United Nations</a></li>
 </ol>
-
-<hr>
-
-
-<h2 id="social">Social</h2>
-
-<ol>
-<li><a href="https://www.linkedin.com/in/ryan-harden/">LinkedIn</a></li>
-<li><a href="https://github.com/airforcegrads">Github</a></li>
-</ol>

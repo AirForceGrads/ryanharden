@@ -81,11 +81,3 @@ While there, I developed two applications that saved 2 FTEs and are still being 
 </div>
 </div>
 
-<hr>
-
-<h2 id="social">Social</h2>
-
-<ol>
-<li><a href="https://www.linkedin.com/in/ryan-harden/">LinkedIn</a></li>
-<li><a href="https://github.com/airforcegrads">Github</a></li>
-</ol>
