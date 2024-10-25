@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<div class="wrapper">
-<header class="navbar container">
-<a id="author-name" class="alignable pull-left" href="/ryanharden">Ryan J. A. Harden</a>
-<nav class="alignable pull-right navbar-ul">
-<ul>
-<li class="alignable pull-left nav-list"><a href="/ryanharden">About</a> /</li>
-<li class="alignable pull-left nav-list"><a href="/ryanharden/blog">Blog</a> /</li>
-<li class="alignable pull-left nav-list"><a href="/ryanharden/work">Work</a> /</li>
-<li class="alignable pull-left nav-list"><a href="/ryanharden/contact">Contact</a></li>
-</ul>
-</nav>
-</header>
-
 <div style="clear:both"></div>
 <hr>
 
