@@ -33,6 +33,17 @@ layout: default
 
 <hr>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
 <h2>Published Works & Quotes</h2>
 <ol>
 <li><a href="https://nationalinterest.org/blog/buzz/biden-signs-ndaa-law-avoiding-effects-delayed-signing-198651">Biden Signs NDAA Into Law, Avoiding Effects of Delayed Signing</a></li>
