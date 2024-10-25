@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,12 +74,8 @@ layout: default
                             <p style="text-align: center; margin-bottom: 10px">
                             <a href="mailto:rjah611@gmail.com" style="color: black"><small>Copyright 2024 Ryan Harden</small></a>
                             </p>
-                        
-                    </div>
-            </div>
         </div>
     </div>
 <footer>
 </footer>
 </body>
-</html>
