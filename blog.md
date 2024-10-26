@@ -33,7 +33,7 @@ layout: default
 
 <hr>
 
-{% assign specific_post = site.posts | where: "title", "New Site" | first %}
+{% assign specific_post = site.posts | where: "title" | first %}
 {% if specific_post %}
   <li>
     <a href="{{ site.baseurl }}{{ specific_post.url }}">{{ specific_post.title }}</a>
