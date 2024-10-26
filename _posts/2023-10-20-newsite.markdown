@@ -1,5 +1,5 @@
 ---
-layout: defaultpost
+layout: post
 title: New Site
 ---
 Welcome to my very first post! I am excited to share... dafs
