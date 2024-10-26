@@ -4,6 +4,7 @@ description: Ryan Harden custom developed Jeykll styling
 url: https://airforcegrads.com/ryanharden/
 
 permalink: :year/:month/:day/:title/
+future: true
 
 # Author information
 author:
