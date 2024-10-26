@@ -2,7 +2,7 @@
 title: Ryan Harden Personal Page
 description: Ryan Harden custom developed Jeykll styling
 url: https://airforcegrads.com/ryanharden/
-
+baseurl: "/ryanharden"
 permalink: :year/:month/:day/:title/
 future: true
 
@@ -25,20 +25,8 @@ kramdown:
   input: GFM
   hard_wrap: true
 
-# Site defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-      excerpt_separator: <!--more-->
-
-# Pagination settings
-pagination:
-  enabled: true
-  per_page: 5
-  category: posts
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude files from the build
 exclude:
@@ -49,6 +37,6 @@ exclude:
 
 # Custom theme settings
 custom_theme_settings:
-  color_scheme: dark
+  color_scheme: light
   font: "Inconsolata"
   header_image: "/assets/images/header.jpg"
