@@ -33,12 +33,16 @@ layout: default
 
 <hr>
 
-<ul>
+{% assign specific_post = site.posts | where: "title", "New Site" | first %}
+{% if specific_post %}
   <li>
-    <a href="{{ site.baseurl }}/blog/2024/10/27/new-site/">New Site</a>
+    <a href="{{ site.baseurl }}{{ specific_post.url }}">{{ specific_post.title }}</a>
     <p>This is a brief excerpt or description of the post.</p>
   </li>
-</ul>
+{% else %}
+  <li>No post found.</li>
+{% endif %}
+
 
 
 
