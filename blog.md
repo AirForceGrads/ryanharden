@@ -33,14 +33,15 @@ layout: default
 
 <hr>
 
-{% assign specific_post = site.posts | where: "title" | first %}
-{% if specific_post %}
+
+<ul>
+{% for post in site.posts %}
   <li>
-    <a href="{{ site.baseurl }}{{ specific_post.url }}">{{ specific_post.title }}</a>
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     <p>This is a brief excerpt or description of the post.</p>
   </li>
-{% else %}
-{% endif %}
+{% endfor %}
+</ul>
 
 
 
