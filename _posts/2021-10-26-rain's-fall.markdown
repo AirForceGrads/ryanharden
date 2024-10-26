@@ -1,6 +1,6 @@
 ---
-layout: post
-title: on happiness
+layout: default
+title: When rain begins to fall
 ---
 We kissed as lovers, 
 
