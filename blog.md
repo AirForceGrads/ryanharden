@@ -38,7 +38,6 @@ layout: default
 {% for post in site.posts %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <p>This is a brief excerpt or description of the post.</p>
   </li>
 {% endfor %}
 </ul>
