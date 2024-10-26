@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defaultpost
 title: on happiness
 ---
 

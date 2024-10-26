@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defaultpost
 title: Three Amazing Experiences at the Air Force Academy
 ---
 
