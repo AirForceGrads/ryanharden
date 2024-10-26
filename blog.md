@@ -40,7 +40,6 @@ layout: default
     <p>This is a brief excerpt or description of the post.</p>
   </li>
 {% else %}
-  <li>No post found.</li>
 {% endif %}
 
 
