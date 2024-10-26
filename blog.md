@@ -12,11 +12,6 @@ layout: default
 
 <hr>
 <H2>Past articles</H2>
-<H3>On Writing</H3>
-<h3>Poetry</h3>
-<hr>
-
-
 <ul>
 {% for post in site.posts %}
   <li>
