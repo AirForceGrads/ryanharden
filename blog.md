@@ -9,28 +9,11 @@ layout: default
 <div class = "container content">
 <!--Make this an RSS Feed and import all articles over from https://www.ryanjaharden.com-->
 <h2>Forthcoming Articles</h2>
-<ul>
-<li>Bring Back the DoDo! (forthcoming)</li>
-<li>Where are all the USAFA Realtors? (forthcoming)</li>
-</ul>
 
 <hr>
-
-<H2>On Writing</H2>
-<ul> 
-<li></li>
-</ul>
-
-<h2>Poetry</h2>
-<ul>
-<li>My Favorite Poems: A Curated List</li>
-<li>I heard Heaven's bells</li>
-<li>rain's fall</li>
-<li>on happiness</li>
-<li>serotonin</li>
-<li>love & rage</li>
-</ul>
-
+<H2>Past articles</H2>
+<H3>On Writing</H3>
+<h3>Poetry</h3>
 <hr>
 
 
@@ -41,8 +24,6 @@ layout: default
   </li>
 {% endfor %}
 </ul>
-
-
 
 
 
